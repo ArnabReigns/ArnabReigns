@@ -1,7 +1,7 @@
 <h1 align="Left">Hello 👋, I'm Arnab Chatterjee</h1>
 <h3 align="Left">A passionate fullstack developer from India</h3>
 
-<img src="https://s4.gifyu.com/images/up.gif" />
+<img src="https://s7.gifyu.com/images/up-1.gif" />
 
 - 🔭 I’m currently working on [GDSC Backend](https://github.com/ArnabReigns/GDSC-BACKEND)
 
