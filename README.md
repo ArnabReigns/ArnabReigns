@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Arnab Chatterjee</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" src="https://www.canva.com/design/DAFOpgR60FE/watch" width="400">
+<img align="right" src="https://i.ibb.co/WF6f4T0/up.gif" alt="up">
 
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOpgR60FE&#x2F;watch?utm_content=DAFOpgR60FE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">up</a> by 3032_Arnab Chatterjee
 
